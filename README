@@ -1,0 +1,10 @@
+Christian Zinck
+
+planarity.py uses the DMP planarity decision algorithm to determine the planarity of an input graph's list of edges.
+
+Input: A single space separated, 2 column edge list. Eg:
+v1 v2
+v2 v3
+v3 v1
+
+Output: PLANAR or NONPLANAR
